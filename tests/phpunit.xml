@@ -1,0 +1,5 @@
+<phpunit bootstrap="./TestInit.php" debug="true">
+    <testsuite name="Assert">
+        <file>./AssertTestCase.php</file>
+    </testsuite>
+</phpunit>
